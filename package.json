@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "open": "cypress open",
     "cy:chrome": "cypress open --e2e --browser chrome",
     "cy:record": "cypress run --record --key 4fad7b52-5941-462e-8cf6-b0be5fe71dd0"
   },
